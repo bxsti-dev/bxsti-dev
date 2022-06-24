@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Basti-def
 - 👀 I’m interested in programming (mostly python) 
-- 📫 How to reach me on discord I guess (Basti#3032)
+- 📫 How to reach me? On discord I guess (Basti#3032)
 
 <!---
 Basti-def/Basti-def is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
