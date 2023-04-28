@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Basti-def
-- 👀 I’m interested in programming (mostly python) 
+- 👀 I’m interested in programming
 - 📫 How to reach me? On discord I guess (Basti#3032)
 
 <!---
