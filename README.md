@@ -15,6 +15,11 @@
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/arduino-1.svg" alt="Arduino" width="40" height="40"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Godot_icon.svg/2048px-Godot_icon.svg.png" alt="Godot" width="40" height="40"/>
 <img src="https://avatars.githubusercontent.com/u/36976817?s=200&v=4" alt="Neutralinojs" width="40" height="40"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/c6/Dart_logo.png" alt="Neutralinojs" width="40" height="40"/>
+<img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/flutter-icon.png" alt="Neutralinojs" width="40" height="40"/>
+
+
+
 </p>
 
 <br>
